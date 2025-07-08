@@ -1,1 +1,28 @@
+📌  Lists
+A list is a built-in Python data structure that holds an ordered collection of items, which can be of any data type.
+
+🔹 Key Characteristics: Defined using square brackets []
+
+Ordered (items have a fixed index)
+
+Mutable (can be changed)
+
+Can hold mixed data types
+
+🔹 Use Cases: Storing multiple related values (e.g., list of names)
+
+Iterating over data
+
+Performing batch operations (e.g., sorting, searching)
+
+Example: To create the list of variables
+
+CODE:
+firstname = "John"
+middlename = "paal"
+lastname = "joe"
+person=[firstname,middlename,lastname]
+print(person)
+OUTPUT:
+['John', 'paal', 'joe']
 
