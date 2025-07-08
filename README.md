@@ -1,5 +1,5 @@
 # Python Fundamentals
-##📌 1. Variables
+## 📌 1. Variables
 
 In Python, a variable is a named location used to store data in memory. You can think of it as a "label" for a value. Python is dynamically typed, which means you don’t need to declare a variable type explicitly.
 
@@ -22,7 +22,7 @@ Reuse and update values easily.
 Make your code readable and maintainable.
 
 
-##📌 2. Functions
+## 📌 2. Functions
 
 A function is a block of organized, reusable code that performs a single, related action. Python functions are defined using the def keyword.
 
@@ -44,7 +44,7 @@ Lambda Functions – Anonymous, single-expression functions (using lambda)
 def function_name(parameters):
     # block of code
     return value
-##📌 3. Arguments and Parameters
+## 📌 3. Arguments and Parameters
 
 In Python, when a function is called, you can pass values (called arguments) into it. The parameters are the names used in the function definition to accept those arguments.
 
@@ -67,7 +67,8 @@ Allows customization of behavior
 Enhances reusability
 
 
-##📌 4. Lists
+## 📌 4. Lists
+
 A list is a built-in Python data structure that holds an ordered collection of items, which can be of any data type.
 
 🔹 Key Characteristics:
