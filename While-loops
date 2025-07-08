@@ -23,10 +23,10 @@ Count is: 5
 Appending the item in the List 
 Program:
 
-student = ("John Smith") # We where going 
-students = [ ]
-students.append(student)
-print(students)
+student = ("John Smith") # We where appending the string in the list
+students = [ ] # This is the new list where we are going to add the string
+students.append(student) # This is the fuction to append the string
+print(students) # Then we where excuting the output 
 
 Output:
 ['John Smith']
