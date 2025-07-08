@@ -1,0 +1,8 @@
+✅ What is a while loop in Python?
+A while loop in Python is used to repeat a block of code as long as a certain condition is True.
+
+🧠 Syntax:
+```bash
+while condition:
+    # code to repeat
+```
