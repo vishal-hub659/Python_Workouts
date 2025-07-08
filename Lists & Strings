@@ -18,6 +18,7 @@ Performing batch operations (e.g., sorting, searching)
 Example: To create the list of variables
 
 CODE:
+
 firstname = "John"
 middlename = "paal"
 lastname = "joe"
@@ -26,3 +27,23 @@ print(person)
 OUTPUT:
 ['John', 'paal', 'joe']
 
+📌 Strings
+In Python, a string is a sequence of characters enclosed within single ('...'), double ("..."), or triple quotes ('''...''' or """...""").
+✅ Key Points:
+Strings can include letters, numbers, symbols, spaces, etc.
+
+Strings are immutable (once created, they cannot be changed).
+
+You can access each character in a string using indexing (my_string[0], my_string[-1]).
+
+You can perform operations like concatenation, slicing, looping, and use string methods like .upper(), .lower(), .replace(), etc.
+
+Example :Write a program that prints out any text in the terminal. It's up to you what string you use inside print().
+
+CODE:
+
+print("Hello, welcome to the world of programming!")
+
+OUTPUT:
+
+Hello, welcome to the world of programming!
