@@ -1,0 +1,52 @@
+🔁 What is a for loop in Python?
+A for loop is used to iterate (loop) over a sequence like:
+
+a list
+
+a string
+
+a tuple
+
+a dictionary
+
+or even a range of numbers
+
+It lets you run a block of code multiple times, once for each item in the sequence.
+
+🧠 Basic Syntax
+
+for variable in sequence:
+    # code to run
+
+variable: a temporary name for each item in the sequence
+
+sequence: the data you're looping over (like a list or range)
+
+Example:
+In the coding area, we have created a members list. Below that line, write a for-loop block that:
+
+(1) iterates over the items of the members list, and
+
+(2) prints out each item of the list with the first letter capitalized.
+
+ Program:
+members = ["john", "sarah", "dora"] # Getting a list from the user
+for i in members: # Using the For-loop 
+    print(i.title()) # Printing the list of variable as the tiltle 
+
+Match-Case with Bitwise Operator
+
+Example:
+
+Program:
+country = "USA"
+match country:
+    case "USA"|"United States":
+        print("Hello")
+    case "Italy":
+        print("Ciao")
+    case "Germany":
+        print("Hallo")
+
+Output:
+Hello
