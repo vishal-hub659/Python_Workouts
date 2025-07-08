@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Python Basics
 ## 📌 1. Variables
 
 In Python, a variable is a named location used to store data in memory. You can think of it as a "label" for a value. Python is dynamically typed, which means you don’t need to declare a variable type explicitly.
