@@ -1,0 +1,32 @@
+🔤 What is a String in Python?
+In Python, a string is a sequence of characters used to represent text.
+
+You can create a string by putting text inside:
+
+single quotes '...'
+
+double quotes "..."
+
+triple quotes '''...''' or """...""" (used for multi-line strings)
+
+🎯 Key Features of Strings
+|----------------------------------------------- |
+|Feature	  |  Description                       |
+|----------------------------------------------  |
+|Immutable  |	Cannot be changed after creation   |
+|Indexable	| Each character has an index        | 
+|Iterable	  |  Can loop over each character      | 
+|------------------------------------------------|
+
+
+🔧 Useful String Methods
+-----------------------------------------------------------------------------------------------------
+|Method	          |    Description	                     |         Example                           |
+|.upper()	        | Converts to uppercase  	             |   "hello".upper() → "HELLO"               |
+|.lower()	        | Converts to lowercase	               |   "Hi".lower() → "hi"                     |
+|.strip()	        | Removes spaces from start & end	     |   " hi ".strip() → "hi"                   |
+|.replace(a, b)	  | Replaces a with b	                   |    "cat".replace("c", "b") → "bat"        |
+|.split()	        | Splits string into a list	           |   "a,b,c".split(",") → ['a','b','c']      |
+|.find()	          | Finds the index of a substring	     |   "hello".find("l") → 2                 |
+|.len() (function) |	Returns the length of the string	   |    len("hello") → 5                     |
+------------------------------------------------------------------------------------------------------
