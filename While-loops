@@ -2,7 +2,31 @@
 A while loop in Python is used to repeat a block of code as long as a certain condition is True.
 
 🧠 Syntax:
-```bash
+
 while condition:
     # code to repeat
-```
+
+Example:
+
+count = 1 #Initial value for the program
+while count <= 5: # We giving the condition for the loop 
+    print("Count is:", count) # we where printing the statement
+    count += 1 # It will increse the value of the count
+
+Output:
+Count is: 1
+Count is: 2
+Count is: 3
+Count is: 4
+Count is: 5
+
+Appending the item in the List 
+Program:
+
+student = ("John Smith") # We where going 
+students = [ ]
+students.append(student)
+print(students)
+
+Output:
+['John Smith']
