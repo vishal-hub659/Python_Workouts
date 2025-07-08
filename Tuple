@@ -1,0 +1,26 @@
+🔷 What is a Tuple in Python?
+A tuple is a collection of items that is:
+
+Ordered (items stay in the same order)
+
+Immutable (cannot be changed after creation)
+
+Allows duplicates
+
+It's similar to a list, but with one major difference:
+
+Lists can be changed, but tuples cannot.
+✅ How to create a tuple
+
+my_tuple = (1, 2, 3)
+You can also have:
+
+Different data types in a tuple
+
+Strings, integers, floats, booleans, etc.
+
+Example:
+ my_tuple = ("apple", "banana", "cherry")
+print(my_tuple[0])  # Output: apple
+print(my_tuple[-1]) # Output: cherry
+
