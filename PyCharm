@@ -1,0 +1,13 @@
+# 🛠️ About the Development Environment
+## 💻 IDE Used: PyCharm
+I’ve used PyCharm as the main tool to write and manage all the Python code in this project.
+
+## ✅ Why I Chose PyCharm
+PyCharm is a Python-specific IDE that really helps make coding easier. It gives suggestions while you type, highlights errors instantly, and has a built-in terminal and Git support — so I can write, run, and push code to GitHub from one place.
+
+## 🎯 What I Liked About PyCharm
+One of the best things I liked about PyCharm is how organized it keeps everything. It manages virtual environments, makes debugging simple, and lets me focus more on the logic instead of worrying about setup.
+
+## 👨‍💻 Final Thoughts
+I chose PyCharm because it’s beginner-friendly but also powerful enough to handle bigger projects. Everything in this repository was created and tested using PyCharm Community Edition, and I’d recommend it for anyone learning Python or working on real projects.
+
