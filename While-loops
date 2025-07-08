@@ -30,3 +30,7 @@ print(students) # Then we where excuting the output
 
 Output:
 ['John Smith']
+
+
+.env
+node_modules
